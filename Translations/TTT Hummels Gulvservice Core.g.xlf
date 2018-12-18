@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TTT Hummels Gulvservice Core">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2000783622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav2BC Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 2162973975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Template Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS TemplateCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 1432045025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 343377817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS TableNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 3611241000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS RecordNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 2154509605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS FieldNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 3424266150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS FieldType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 936773074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS FieldLength - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 1872871539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS FieldValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000783622 - Field 3758859724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcData - Field TTTHGS BlobValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2000783622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav2Bc Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3966014110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav2Bc Template</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3966014110 - Field 850685807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcTemplate - Field TTTHGS Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3966014110 - Field 5215426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcTemplate - Field TTTHGS Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3966014110 - Field 3392077839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcTemplate - Field TTTHGS DataLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3966014110 - Field 3504210681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcTemplate - Field TTTHGS CompanyFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805182537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav2BC Record</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcRecord - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805182537 - Field 2162973975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Template Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcRecord - Field TTTHGS TemplateCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805182537 - Field 1432045025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcRecord - Field TTTHGS Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805182537 - Field 343377817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcRecord - Field TTTHGS TableNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805182537 - Field 3611241000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTHGS Nav2BcRecord - Field TTTHGS RecordNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 647996883 - Method 15074807 - NamedType 4156592218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action: #1############################\File: #2############################\Action: #3############################</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTHGS Nav2BcManagement - Method ImportData - NamedType loclblActionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 647996883 - Method 15074807 - NamedType 2557421589" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uploading data...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTHGS Nav2BcManagement - Method ImportData - NamedType loclblUploadingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 647996883 - Method 15074807 - NamedType 3977008351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importing data...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTHGS Nav2BcManagement - Method ImportData - NamedType loclblImportingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 647996883 - Method 1839826326 - NamedType 4156592218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action: #1############################\Company: #2############################\Table: #3############################</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTHGS Nav2BcManagement - Method SplitData - NamedType loclblActionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 647996883 - Method 1839826326 - NamedType 4111032562" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Splitting data...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTHGS Nav2BcManagement - Method SplitData - NamedType loclblSplittingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 569136158 - NamedType 1884495911" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration %2: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTTHGS Nav2BcTiming - NamedType lblDurationMessageLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 287095499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav2Bc Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcTemplates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 287095499 - Action 3681369119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcTemplates - Action TTTHGS ImportData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 287095499 - Action 193701326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Split Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcTemplates - Action TTTHGS SplitData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 287095499 - Action 1623480513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcTemplates - Action TTTHGS InsertData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 287095499 - Action 1359424021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcTemplates - Action TTTHGS ShowData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 287095499 - Action 774210663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcTemplates - Action TTTHGS ShowRecords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 211841376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav2Bc Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcRecords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3032246489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav2Bc Import Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TTTHGS Nav2BcImportData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3032246489 - NamedType 3578568365" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import count: %1\Time: %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TTTHGS Nav2BcImportData - NamedType lblPostMessageLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
