@@ -36,12 +36,14 @@ codeunit 50915 "TTTHGS Nav2BcManagement"
             locxmlImport.TextEncoding(TextEncoding::MSDos);
             locxmlImport.SetSource(locstrmIn);
             locbooOK := locxmlImport.Import();
+            Message('OK1');
             Commit();
             if GuiAllowed() then begin
                 locdlgWindow.Update(1, loclblUploadingLbl);
                 locdlgWindow.Update(3, '');
             end;
             locbooOK := UploadIntoStream('Select a file to upload', '', '', loctxtClientFilename, locstrmIn);
+            Message('OK2');
         end;
 
         locdlgWindow.Close();

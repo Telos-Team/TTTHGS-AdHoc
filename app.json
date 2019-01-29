@@ -1,10 +1,10 @@
 {
   "id": "76e55662-787c-455d-9e8d-6edca700b036",
-  "name": "TTT Hummels Gulvservice Core",
+  "name": "TTT Hummels Gulvservice AdHoc",
   "publisher": "Telos Team",
-  "brief": "TTT Hummels Gulvservice Core",
-  "description": "Core development objects for Hummels Gulvservice",
-  "version": "1.0.0.8",
+  "brief": "TTT Hummels Gulvservice AdHoc",
+  "description": "AdHoc development objects for Hummels Gulvservice",
+  "version": "1.0.0.11",
   "privacyStatement": "http://telosteam.dk/privacy",
   "EULA": "http://telosteam.dk/eula",
   "help": "http://telosteam.dk/support",
@@ -19,7 +19,7 @@
     "from": 50900,
     "to": 50999
   },
-  "runtime": "2.1",
+  "runtime": "2.2",
   "showMyCode": true,
   "features": [
     "TranslationFile"

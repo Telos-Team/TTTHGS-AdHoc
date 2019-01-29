@@ -5,9 +5,10 @@
             "type": "al",
             "request": "launch",
             "name": "Microsoft cloud sandbox",
-            "startupObjectId": 22,
+            "tenant": "hummelsdk.onmicrosoft.com",
+            "startupObjectId": 50907,
             "startupObjectType": "Page",
-            "breakOnError": true
+            "breakOnError": true,
         },
         {
             "type": "al",
@@ -18,7 +19,8 @@
             "authentication": "UserPassword",
             "startupObjectId": 22,
             "startupObjectType": "Page",
-            "breakOnError": true
+            "breakOnError": true,
+            "schemaUpdateMode": "Synchronize",
         }
     ]
 }
