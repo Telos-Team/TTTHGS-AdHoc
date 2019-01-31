@@ -94,8 +94,8 @@ report 50901 "TTTHGS FieldChange"
                         trigger OnValidate()
                         begin
                             if intCommitPerRecords > 0 then begin
-                                intCommitPerSeconds := 0;
-                                booUseTest := false;
+                                Clear(intCommitPerSeconds);
+                                Clear(booUseTest);
                             end;
                         end;
                     }
@@ -108,8 +108,8 @@ report 50901 "TTTHGS FieldChange"
                         trigger OnValidate()
                         begin
                             if intCommitPerSeconds > 0 then begin
-                                intCommitPerRecords := 0;
-                                booUseTest := false;
+                                Clear(intCommitPerRecords);
+                                Clear(booUseTest);
                             end;
                         end;
                     }
@@ -120,8 +120,8 @@ report 50901 "TTTHGS FieldChange"
                         trigger OnValidate()
                         begin
                             if booUseTest then begin
-                                intCommitPerRecords := 0;
-                                intCommitPerSeconds := 0;
+                                Clear(intCommitPerRecords);
+                                Clear(intCommitPerSeconds);
                             end;
                         end;
                     }
@@ -152,7 +152,9 @@ report 50901 "TTTHGS FieldChange"
         dtStart: DateTime;
         dtEnd: DateTime;
         durTime: Duration;
-        textDontRunTheReportTxt: Label 'Use the action "START" instead of running the report';
+        textProgressDialogTxt: Label 'Current record:\#1################################################';
+        textFinishMessageTxt: Label '%1 records\%2';
+        textTestCancellationTxt: Label 'Selecting TEST cancelled the COMMIT of all changes!';
 
     local procedure OnValidateTableNo(var parvarintTableNo: Integer)
     var
@@ -173,8 +175,8 @@ report 50901 "TTTHGS FieldChange"
             locfrField := locrrTable.Field(parvarintFieldNo);
             txtFieldName := locfrField.Name();
         end else begin
-            parvarintFieldNo := 0;
-            txtFieldName := '';
+            Clear(parvarintFieldNo);
+            Clear(txtFieldName);
         end;
     end;
 
@@ -211,7 +213,7 @@ report 50901 "TTTHGS FieldChange"
         if intCommitPerSeconds > 0 then
             locdtNextCommit := CurrentDateTime() + intCommitPerSeconds * 1000;
         if GuiAllowed() then
-            dlgWindow.Open('#1################################################');
+            dlgWindow.Open(textProgressDialogTxt);
         repeat
             locintRecordCount += 1;
             if GuiAllowed() then
@@ -237,9 +239,9 @@ report 50901 "TTTHGS FieldChange"
 
         dtEnd := CurrentDateTime();
         durTime := dtEnd - dtStart;
-        Message('%1 records\%2', locintRecordCount, durTime);
+        Message(textFinishMessageTxt, locintRecordCount, durTime);
 
         if booUseTest then
-            Error('Selecting TEST cancelled the COMMIT of all changes!');
+            Error(textTestCancellationTxt);
     end;
 }

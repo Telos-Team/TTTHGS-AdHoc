@@ -199,7 +199,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control TableFilter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 861470928 - Control 1548211826 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Table Filter example:\nWhere(No. = Filter(10000..20000))</source>
+          <source>Table Filter example: Where(No. = Filter(10000..20000))</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control TableFilter - Property ToolTip</note>
         </trans-unit>
@@ -248,10 +248,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control UseTest - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Report 861470928 - NamedType 1482932070" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Use the action "START" instead of running the report</source>
+        <trans-unit id="Report 861470928 - NamedType 2701808700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current record:\#1################################################</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - NamedType textDontRunTheReportTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - NamedType textProgressDialogTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - NamedType 2255681367" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 records\%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - NamedType textFinishMessageTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - NamedType 2671366136" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selecting TEST cancelled the COMMIT of all changes!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - NamedType textTestCancellationTxt</note>
         </trans-unit>
         <trans-unit id="Report 2878850083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Update Item Journal Line Unit of Measure</source>
