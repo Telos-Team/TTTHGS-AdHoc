@@ -173,6 +173,86 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TTTHGS Nav2BcRecords - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 861470928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 698539839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 103915345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control TableNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 730832363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control TableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 1548211826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control TableFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 1548211826 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Filter example:\nWhere(No. = Filter(10000..20000))</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control TableFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 2547700717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control FieldNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 166597695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control FieldName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 1717495343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control UseAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 1648763025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control NewValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 695386742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use OnModify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control UseOnModify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 4293120472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use OnValidate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control UseOnValidate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 1891272477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use COMMIT per no. of records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control UseCommitPerRecords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 2111348490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use COMMIT per no. of seconds</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control UseCommitPerSeconds - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - Control 1791202911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - Control UseTest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 861470928 - NamedType 1482932070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use the action "START" instead of running the report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - NamedType textDontRunTheReportTxt</note>
+        </trans-unit>
         <trans-unit id="Report 2878850083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Update Item Journal Line Unit of Measure</source>
           <note from="Developer" annotates="general" priority="2"></note>

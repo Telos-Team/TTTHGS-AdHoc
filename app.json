@@ -19,7 +19,7 @@
     "from": 50900,
     "to": 50999
   },
-  "runtime": "2.2",
+  "runtime": "2.1",
   "showMyCode": true,
   "features": [
     "TranslationFile"

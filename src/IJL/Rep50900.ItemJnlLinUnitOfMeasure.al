@@ -9,7 +9,7 @@ report 50900 "TTTHGS ItemJnlLinUnitOfMeasure"
     {
         dataitem(IJL; "Item Journal Line")
         {
-            RequestFilterFields = "Item No.";
+            RequestFilterFields = "Item No.", "Journal Template Name", "Journal Batch Name";
 
             trigger OnAfterGetRecord()
             var
