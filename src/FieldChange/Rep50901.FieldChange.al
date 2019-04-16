@@ -196,7 +196,7 @@ report 50901 "TTTHGS FieldChange"
                 locfrNew := locrrNew.Field(intFieldNo);
             optAction::InitValue:
                 begin
-                    locrrNew.INIT;
+                    locrrNew.INIT();
                     locfrNew := locrrNew.Field(intFieldNo);
                 end;
             optAction::SetValue:

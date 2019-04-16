@@ -263,6 +263,41 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS FieldChange - NamedType textTestCancellationTxt</note>
         </trans-unit>
+        <trans-unit id="Report 1399108971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete RecordId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS DeleteRecordId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1399108971 - Control 698539839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS DeleteRecordId - Control Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1399108971 - Control 10114210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS DeleteRecordId - Control ridDelete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1399108971 - Control 279865059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS DeleteRecordId - Control txtDeleteRecordId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1399108971 - Control 695386742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use OnModify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS DeleteRecordId - Control UseOnModify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1399108971 - Control 1791202911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS DeleteRecordId - Control UseTest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1399108971 - NamedType 2671366136" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selecting TEST cancelled the COMMIT of all changes!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TTTHGS DeleteRecordId - NamedType textTestCancellationTxt</note>
+        </trans-unit>
         <trans-unit id="Report 2878850083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Update Item Journal Line Unit of Measure</source>
           <note from="Developer" annotates="general" priority="2"></note>
