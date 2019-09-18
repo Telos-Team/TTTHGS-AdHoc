@@ -9,7 +9,7 @@ report 50902 "TTTHGS DeleteRecordId"
     {
         dataitem(Integer; Integer)
         {
-            DataItemTableView = where (Number = const (1));
+            DataItemTableView = where(Number = const(1));
             MaxIteration = 1;
         }
     }
@@ -25,7 +25,7 @@ report 50902 "TTTHGS DeleteRecordId"
                 group(Settings)
                 {
                     Caption = 'Settings';
-                    field(ridDelete; ridDelete)
+                    field(DeleteField; ridDelete)
                     {
                         Caption = 'Record ID';
                         ApplicationArea = All;
@@ -35,7 +35,7 @@ report 50902 "TTTHGS DeleteRecordId"
                             OnValidateRecordId(ridDelete);
                         end;
                     }
-                    field(txtDeleteRecordId; txtDeleteRecordId)
+                    field(DeleteRecordIdField; txtDeleteRecordId)
                     {
                         Caption = 'Record ID Text';
                         ApplicationArea = All;

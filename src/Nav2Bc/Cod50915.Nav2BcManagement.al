@@ -163,7 +163,11 @@ codeunit 50915 "TTTHGS Nav2BcManagement"
                                 locfrField.Value := locbooEmpty;
                             end;
                         else
-                            Error('Unmanaged field type: %1 %2 %3 %4 %5', locrecData."TTTHGS TableNo", locrecdata."TTTHGS RecordNo", locrecData."TTTHGS FieldNo", locfrField.Type());
+                            Error('Unmanaged field type: %1 %2 %3 %4',
+                                locrecData."TTTHGS TableNo",
+                                locrecdata."TTTHGS RecordNo",
+                                locrecData."TTTHGS FieldNo",
+                                locfrField.Type());
                     end;
                 end;
             end;
