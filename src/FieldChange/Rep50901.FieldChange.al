@@ -4,12 +4,13 @@ report 50901 "TTTHGS FieldChange"
     UsageCategory = Administration;
     ApplicationArea = All;
     ProcessingOnly = true;
+    Permissions = tabledata "Bank Account Ledger Entry" = M;
 
     dataset
     {
         dataitem(Integer; Integer)
         {
-            DataItemTableView = where (Number = const (1));
+            DataItemTableView = where(Number = const(1));
             MaxIteration = 1;
         }
     }
